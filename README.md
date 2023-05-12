@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranjalee23
-- 👀 I’m interested in coding, reading, and when not doing these two - sleeping.
+- 👀 I’m interested in coding, reading, and when not doing these two - watching netflix.
 - 💞️ I’m looking to collaborate on MERN stack projeects
 
 <!---
